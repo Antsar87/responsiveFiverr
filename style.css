@@ -34,7 +34,6 @@ section {
 
 .row-1 a {
   flex: 1;
-
 }
 
 .row-1 a div {
@@ -47,6 +46,7 @@ section {
 .box-1 {
   background: var(--secondary-color);
   flex: 1;
+  padding-left: 1rem;
 }
 
 h1 {
